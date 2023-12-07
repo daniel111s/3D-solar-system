@@ -54,3 +54,8 @@ In-depth comments within the code provide a detailed explanation of each functio
 
 ### Simulation
 ![image](https://github.com/daniel111s/3D-solar-system/assets/126720512/f64a2511-fdc6-4d97-8b4d-0517c60b0718)
+![image](https://github.com/daniel111s/3D-solar-system/assets/126720512/24555bbe-d464-485b-91c1-79524435c1e9)
+![image](https://github.com/daniel111s/3D-solar-system/assets/126720512/56499f59-74a1-4c2e-8f22-4f52fd7becff)
+![image](https://github.com/daniel111s/3D-solar-system/assets/126720512/f57f0945-43a0-48c1-b8ff-bbeb6b7af2a2)
+
+
