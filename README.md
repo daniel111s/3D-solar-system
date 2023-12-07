@@ -50,3 +50,7 @@ The project tackles these challenges using OpenGL and the GLUT library in C++. I
 ### Documentation
 
 In-depth comments within the code provide a detailed explanation of each function, variable, and the logic behind the transformations.
+
+
+### Simulation
+![image](https://github.com/daniel111s/3D-solar-system/assets/126720512/f64a2511-fdc6-4d97-8b4d-0517c60b0718)
