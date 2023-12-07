@@ -1,0 +1,4 @@
+D:\GK2020\Gk_Lab3\Debug\Gk_Lab3.exe
+D:\GK2020\Gk_Lab3\Debug\Gk_Lab3.pdb
+C:\Users\user\Desktop\Studia\Semestr-5\Grafika Komputerowa\Gk_Lab3\Debug\Gk_Lab3.exe
+C:\Users\user\Desktop\Studia\Semestr-5\Grafika Komputerowa\3D-solar-system\Debug\Gk_Lab3.exe
